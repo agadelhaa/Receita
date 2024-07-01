@@ -10,5 +10,5 @@ Para visualizar este projeto, você precisará de um navegador da web moderno, c
 
 ### Captura de Tela
 
-![Página Principal](assets/pagina-de-receitas.jpg)
+![Página de receita](assets/pagina-de-receitas.png)
 
